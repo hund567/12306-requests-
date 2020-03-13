@@ -36,7 +36,7 @@ def get_ticket_info():
                 # 第三方 SMTP 服务
                 mail_host = "smtp.163.com"  # 设置服务器
                 mail_user = "hund567"  # 用户名
-                mail_pass = "1990312peking"  # 口令
+                mail_pass = "*******"  # 口令
 
                 sender = 'hund567@163.com'
                 receivers = 'hund567@163.com'  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
